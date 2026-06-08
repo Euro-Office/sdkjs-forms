@@ -403,10 +403,10 @@
 		}, this);
 	};
 	/**
-	 * Creates a picture form with the specified picture form properties.
+	 * Creates a signature form with the specified form properties.
 	 * @memberof Api
 	 * @typeofeditors ["CDE", "CFE"]
-	 * @param {FormPrBase} formPr - form properties.
+	 * @param {FormPrBase} formPr - Signature form properties.
 	 * @returns {ApiSignatureForm}
 	 * @since 9.4.0
 	 * @see office-js-api/Examples/Forms/Api/Methods/CreateSignatureForm.js
