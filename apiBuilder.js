@@ -429,6 +429,7 @@
 			
 			form.SetPictureFormPr(pictPr);
 			form.ApplyPicturePr(true);
+			form.SetFormRequired(true);
 			
 			let w = 150 / 72 * 25.4;
 			let h = 32 / 72 * 25.4;
