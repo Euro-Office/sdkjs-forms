@@ -208,7 +208,7 @@
 	 * @typeofeditors ["CDE", "CFE"]
 	 * @alias GetOFormRole
 	 * @returns {string} The current role name, or an empty string if no role is set.
-	 * @since 9.5.0
+	 * @since 10.0.0
 	 * @see office-js-api/Examples/Plugins/Forms/Api/Methods/GetOFormRole.js
 	 */
 	Api.prototype["pluginMethod_GetOFormRole"] = function()
