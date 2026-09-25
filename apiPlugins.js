@@ -37,6 +37,14 @@
 
 (function(window)
 {
+	/**
+	 * The Forms API contains the methods and events available to a plugin
+	 * in the ONLYOFFICE Forms editor.
+	 * @global
+	 * @class
+	 * @name Api
+	 * @typeofeditors ["CFE"]
+	 */
 	let Api = window["asc_docs_api"];
 	
 	/**
