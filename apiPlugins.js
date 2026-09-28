@@ -39,7 +39,8 @@
 {
 	/**
 	 * The Form API lists the methods and events a plugin can use when working with a form in
-	 * ONLYOFFICE Docs. To create forms from a script instead, see the Office API
+	 * ONLYOFFICE Docs. To work with the form content directly, such as form fields, run
+	 * Office API code in <code>callCommand</code>. See
 	 * {@link /docs/office-api/usage-api/form-api/form-api Form API}.
 	 * @global
 	 * @class
