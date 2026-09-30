@@ -70,10 +70,11 @@
 	/**
 	 * @typedef {(0 | 1 | 2 | 3)} ContentControlLock
 	 * A value that defines if it is possible to delete and/or edit the content control or not:
-	 * **0** - only deleting
-	 * **1** - disable deleting or editing
-	 * **2** - only editing
-	 * **3** - full access
+	 *
+	 * - <b>0</b> - only deleting
+	 * - <b>1</b> - disable deleting or editing
+	 * - <b>2</b> - only editing
+	 * - <b>3</b> - full access
 	 * @see office-js-api/Examples/Plugins/Forms/Enumeration/ContentControlLock.js
 	 */
 
