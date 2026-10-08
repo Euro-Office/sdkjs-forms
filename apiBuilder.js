@@ -545,6 +545,7 @@
 	
 	/**
 	 * Returns a collection of form roles.
+	 * @memberof ApiDocument
 	 * @since 9.0.0
 	 * @typeofeditors ["CDE", "CFE"]
 	 * @returns {ApiFormRoles}
